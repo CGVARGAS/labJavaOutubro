@@ -9,11 +9,10 @@ O código fornecido neste repositório se refere à aula 69 do curso, onde são 
 
 ## Como Usar
 
-1. Clone este repositório em sua máquina local.
+Obs.: Clone este repositório em sua máquina local.
 
-'''bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-'''
+
 
 1. Abra o código-fonte em sua IDE Java de escolha.
 
@@ -21,10 +20,12 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 3. Siga as instruções para inserir a largura e a altura do retângulo e veja os cálculos de área, perímetro e diagonal.
 
-##Autor
+## Autor
+
 Este código foi desenvolvido como parte do curso de Java 2023, orientação a objetos, ministrado por Nélio Alves na plataforma Udemy.
 
-##Nota
+## Nota
+
 Este repositório é destinado apenas a fins acadêmicos e de aprendizado. Certifique-se de seguir as diretrizes éticas e de uso da Udemy ao utilizá-lo.
 
 Lembre-se de substituir `seu-usuario/nome-do-repositorio` pelo nome do seu usuário do GitHub e o nome do repositório onde você pretende adicionar este arquivo `README.md`.
