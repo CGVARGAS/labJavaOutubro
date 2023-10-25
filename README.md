@@ -20,11 +20,11 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 3. Siga as instruções para inserir a largura e a altura do retângulo e veja os cálculos de área, perímetro e diagonal.
 
-## Autor
+## Autor:
 
 Este código foi desenvolvido como parte do curso de Java 2023, orientação a objetos, ministrado pelo instrutor Nélio Alves na plataforma Udemy.
 
-## Nota
+## Nota:
 
 Este repositório é destinado apenas a fins acadêmicos e de aprendizado. Certifique-se de seguir as diretrizes éticas e de uso da Udemy ao utilizá-lo.
 
