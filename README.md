@@ -22,12 +22,12 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 ## Autor
 
-Este código foi desenvolvido como parte do curso de Java 2023, orientação a objetos, ministrado por Nélio Alves na plataforma Udemy.
+Este código foi desenvolvido como parte do curso de Java 2023, orientação a objetos, ministrado pelo instrutor Nélio Alves na plataforma Udemy.
 
 ## Nota
 
 Este repositório é destinado apenas a fins acadêmicos e de aprendizado. Certifique-se de seguir as diretrizes éticas e de uso da Udemy ao utilizá-lo.
 
-Lembre-se de substituir `seu-usuario/nome-do-repositorio` pelo nome do seu usuário do GitHub e o nome do repositório onde você pretende adicionar este arquivo `README.md`.
+
 
 
