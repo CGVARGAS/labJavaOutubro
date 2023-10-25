@@ -11,8 +11,9 @@ O código fornecido neste repositório se refere à aula 69 do curso, onde são 
 
 1. Clone este repositório em sua máquina local.
 
-bash
+'''bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+'''
 
 1. Abra o código-fonte em sua IDE Java de escolha.
 
