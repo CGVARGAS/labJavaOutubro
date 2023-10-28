@@ -6,6 +6,7 @@ Este repositório contém o código-fonte de exercícios de fixação relacionad
 ## Descrição
 
 O código fornecido neste repositório se refere à aula 69 do curso, onde são apresentados conceitos relacionados a classes, objetos e cálculos envolvendo retângulos. O código está escrito na linguagem Java e inclui a classe `Rectangle` que é usada para calcular a área, o perímetro e a diagonal de retângulos. Além disso, o programa principal no arquivo `Application.java` demonstra o uso da classe `Rectangle` através de entradas do usuário.
+Mais dois cígos foram adicionados a este repositório para que sejam verificados e utilizados para finalidade acadêmica.
 
 ## Como Usar
 
