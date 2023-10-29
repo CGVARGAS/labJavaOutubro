@@ -6,7 +6,7 @@ public class Student {
 	private double nota2Semestre;
 	private double nota3Semestre;
 	
-	
+	//Método construtor
 	public Student(String name, double nota1Semestre, double nota2Semestre, double nota3Semestre) {
 		this.name = name;
 		this.nota1Semestre = nota1Semestre;
@@ -15,7 +15,7 @@ public class Student {
 		
 	}
 	
-	
+	//Métodos getters e setters
 	public String getName() {
 		return name;
 	}
@@ -40,8 +40,8 @@ public class Student {
 		return nota3Semestre;
 	}
 
-	/*Neste código, a função calculateTotalGrade() é responsável apenas pelo cálculo da nota total do aluno. 
-	 * Enquanto a função getFinalGradeDetails() gera uma string com os detalhes da nota final.
+	/*Neste código, a função "calculateTotalGrade()" é responsável apenas pelo cálculo da nota total do aluno. 
+	 * Enquanto a função "getFinalGradeDetails()" gera uma string com os detalhes da nota final.
 	 */
 	public double calculatorTotalGrade() {
 		return nota1Semestre + nota2Semestre + nota3Semestre;
